@@ -13,6 +13,7 @@
 		D8B99ED81ADA3BE6004D0BBA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8B99ED71ADA3BE6004D0BBA /* Images.xcassets */; };
 		D8B99EDB1ADA3BE6004D0BBA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D8B99ED91ADA3BE6004D0BBA /* LaunchScreen.xib */; };
 		D8B99EE71ADA3BE6004D0BBA /* Git_PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B99EE61ADA3BE6004D0BBA /* Git_PracticeTests.swift */; };
+		D8B99EF11ADA3CB9004D0BBA /* スクリーンショット 2015-04-12 14.39.14.png in Resources */ = {isa = PBXBuildFile; fileRef = D8B99EF01ADA3CB9004D0BBA /* スクリーンショット 2015-04-12 14.39.14.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D8B99EE01ADA3BE6004D0BBA /* Git_PracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Git_PracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B99EE51ADA3BE6004D0BBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8B99EE61ADA3BE6004D0BBA /* Git_PracticeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_PracticeTests.swift; sourceTree = "<group>"; };
+		D8B99EF01ADA3CB9004D0BBA /* スクリーンショット 2015-04-12 14.39.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2015-04-12 14.39.14.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		D8B99ECD1ADA3BE6004D0BBA /* Git_Practice */ = {
 			isa = PBXGroup;
 			children = (
+				D8B99EF01ADA3CB9004D0BBA /* スクリーンショット 2015-04-12 14.39.14.png */,
 				D8B99ED01ADA3BE6004D0BBA /* AppDelegate.swift */,
 				D8B99ED21ADA3BE6004D0BBA /* ViewController.swift */,
 				D8B99ED41ADA3BE6004D0BBA /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				D8B99ED61ADA3BE6004D0BBA /* Main.storyboard in Resources */,
 				D8B99EDB1ADA3BE6004D0BBA /* LaunchScreen.xib in Resources */,
 				D8B99ED81ADA3BE6004D0BBA /* Images.xcassets in Resources */,
+				D8B99EF11ADA3CB9004D0BBA /* スクリーンショット 2015-04-12 14.39.14.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
